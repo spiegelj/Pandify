@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandify", "Pandify.csproj", "{97CE2BAC-08EB-45F1-8AE2-E98B0004BE89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{B4BD9729-33F1-439D-8301-5663DDABF347}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logging", "..\Logging\Logging.csproj", "{0DE49F40-98C2-4A04-8049-A5CBFAD00B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CE2BAC-08EB-45F1-8AE2-E98B0004BE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CE2BAC-08EB-45F1-8AE2-E98B0004BE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CE2BAC-08EB-45F1-8AE2-E98B0004BE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CE2BAC-08EB-45F1-8AE2-E98B0004BE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BD9729-33F1-439D-8301-5663DDABF347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BD9729-33F1-439D-8301-5663DDABF347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BD9729-33F1-439D-8301-5663DDABF347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BD9729-33F1-439D-8301-5663DDABF347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE49F40-98C2-4A04-8049-A5CBFAD00B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE49F40-98C2-4A04-8049-A5CBFAD00B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE49F40-98C2-4A04-8049-A5CBFAD00B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE49F40-98C2-4A04-8049-A5CBFAD00B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4589CE2A-20A8-4636-AAD2-C87188BBF3BA}
+	EndGlobalSection
+EndGlobal

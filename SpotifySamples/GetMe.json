@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "display_name": "spiegelj0828",
+  "email": "mcjspiegel@gmail.com",
+  "explicit_content": {
+    "filter_enabled": false,
+    "filter_locked": false
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/xpophnqvv5gjxtj9q70c0v0kb"
+  },
+  "followers": {
+    "href": null,
+    "total": 0
+  },
+  "href": "https://api.spotify.com/v1/users/xpophnqvv5gjxtj9q70c0v0kb",
+  "id": "xpophnqvv5gjxtj9q70c0v0kb",
+  "images": [],
+  "product": "open",
+  "type": "user",
+  "uri": "spotify:user:xpophnqvv5gjxtj9q70c0v0kb"
+}

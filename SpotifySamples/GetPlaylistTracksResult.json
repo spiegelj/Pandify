@@ -1,0 +1,295 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/2ttmdNKKPZi47TQohgOszv/tracks?offset=0&limit=3&market=US",
+  "items": [
+    {
+      "added_at": "2020-01-01T19:38:33Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xpophnqvv5gjxtj9q70c0v0kb"
+        },
+        "href": "https://api.spotify.com/v1/users/xpophnqvv5gjxtj9q70c0v0kb",
+        "id": "xpophnqvv5gjxtj9q70c0v0kb",
+        "type": "user",
+        "uri": "spotify:user:xpophnqvv5gjxtj9q70c0v0kb"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6HlyqqJdqPTB8qzYttWbo0"
+              },
+              "href": "https://api.spotify.com/v1/artists/6HlyqqJdqPTB8qzYttWbo0",
+              "id": "6HlyqqJdqPTB8qzYttWbo0",
+              "name": "Beyond God",
+              "type": "artist",
+              "uri": "spotify:artist:6HlyqqJdqPTB8qzYttWbo0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0pkl8bXuF2GGQPF2RESaix"
+          },
+          "href": "https://api.spotify.com/v1/albums/0pkl8bXuF2GGQPF2RESaix",
+          "id": "0pkl8bXuF2GGQPF2RESaix",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a28e11f114bbde35185e9680",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a28e11f114bbde35185e9680",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a28e11f114bbde35185e9680",
+              "width": 64
+            }
+          ],
+          "name": "A Moment of Black",
+          "release_date": "2016-04-03",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:0pkl8bXuF2GGQPF2RESaix"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HlyqqJdqPTB8qzYttWbo0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HlyqqJdqPTB8qzYttWbo0",
+            "id": "6HlyqqJdqPTB8qzYttWbo0",
+            "name": "Beyond God",
+            "type": "artist",
+            "uri": "spotify:artist:6HlyqqJdqPTB8qzYttWbo0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 274449,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "NLVZ21600011"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qnZ2iXxgaXIiw5syE8QpZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qnZ2iXxgaXIiw5syE8QpZ",
+        "id": "4qnZ2iXxgaXIiw5syE8QpZ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Send a Child",
+        "popularity": 4,
+        "preview_url": "https://p.scdn.co/mp3-preview/0dee8ca1585868413541aea0ca71ac504e768393?cid=f4614b6e3d0f4ef1930883dc02b64479",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4qnZ2iXxgaXIiw5syE8QpZ"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-02-15T17:31:20Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xpophnqvv5gjxtj9q70c0v0kb"
+        },
+        "href": "https://api.spotify.com/v1/users/xpophnqvv5gjxtj9q70c0v0kb",
+        "id": "xpophnqvv5gjxtj9q70c0v0kb",
+        "type": "user",
+        "uri": "spotify:user:xpophnqvv5gjxtj9q70c0v0kb"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0PMYvG0U25tgSi8jQExPAC"
+              },
+              "href": "https://api.spotify.com/v1/artists/0PMYvG0U25tgSi8jQExPAC",
+              "id": "0PMYvG0U25tgSi8jQExPAC",
+              "name": "Seven Kingdoms",
+              "type": "artist",
+              "uri": "spotify:artist:0PMYvG0U25tgSi8jQExPAC"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2qpkIfqEjH8ofDZlTC1iux"
+          },
+          "href": "https://api.spotify.com/v1/albums/2qpkIfqEjH8ofDZlTC1iux",
+          "id": "2qpkIfqEjH8ofDZlTC1iux",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733a8263292e92ccb153a615c0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023a8263292e92ccb153a615c0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513a8263292e92ccb153a615c0",
+              "width": 64
+            }
+          ],
+          "name": "Decennium",
+          "release_date": "2017-05-05",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2qpkIfqEjH8ofDZlTC1iux"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0PMYvG0U25tgSi8jQExPAC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0PMYvG0U25tgSi8jQExPAC",
+            "id": "0PMYvG0U25tgSi8jQExPAC",
+            "name": "Seven Kingdoms",
+            "type": "artist",
+            "uri": "spotify:artist:0PMYvG0U25tgSi8jQExPAC"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 256306,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "ATN261773407"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KGXy050hjVZArWmOSV7DF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6KGXy050hjVZArWmOSV7DF",
+        "id": "6KGXy050hjVZArWmOSV7DF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Faceless Hero",
+        "popularity": 8,
+        "preview_url": "https://p.scdn.co/mp3-preview/63d6670ada7289744cdfb6729dedcdb70e62cad9?cid=f4614b6e3d0f4ef1930883dc02b64479",
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6KGXy050hjVZArWmOSV7DF"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2020-02-18T01:23:46Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xpophnqvv5gjxtj9q70c0v0kb"
+        },
+        "href": "https://api.spotify.com/v1/users/xpophnqvv5gjxtj9q70c0v0kb",
+        "id": "xpophnqvv5gjxtj9q70c0v0kb",
+        "type": "user",
+        "uri": "spotify:user:xpophnqvv5gjxtj9q70c0v0kb"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+              },
+              "href": "https://api.spotify.com/v1/artists/6irKXFXk2sPNmHtKqmrfuU",
+              "id": "6irKXFXk2sPNmHtKqmrfuU",
+              "name": "Unleash The Archers",
+              "type": "artist",
+              "uri": "spotify:artist:6irKXFXk2sPNmHtKqmrfuU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5JybNeeVC1mXYcJtiLGOhq"
+          },
+          "href": "https://api.spotify.com/v1/albums/5JybNeeVC1mXYcJtiLGOhq",
+          "id": "5JybNeeVC1mXYcJtiLGOhq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273666e4b75cbd8a60e9d272383",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02666e4b75cbd8a60e9d272383",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851666e4b75cbd8a60e9d272383",
+              "width": 64
+            }
+          ],
+          "name": "Apex",
+          "release_date": "2017-06-02",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5JybNeeVC1mXYcJtiLGOhq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6irKXFXk2sPNmHtKqmrfuU",
+            "id": "6irKXFXk2sPNmHtKqmrfuU",
+            "name": "Unleash The Archers",
+            "type": "artist",
+            "uri": "spotify:artist:6irKXFXk2sPNmHtKqmrfuU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 437920,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "ATN261771301"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SSjG3f820oZL5zd43RzTi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SSjG3f820oZL5zd43RzTi",
+        "id": "2SSjG3f820oZL5zd43RzTi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Awakening",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/3ff7a9ebc1e8ac5c6ffaa37c04b2eb97722703f6?cid=f4614b6e3d0f4ef1930883dc02b64479",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SSjG3f820oZL5zd43RzTi"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 3,
+  "next": "https://api.spotify.com/v1/playlists/2ttmdNKKPZi47TQohgOszv/tracks?offset=3&limit=3&market=US",
+  "offset": 0,
+  "previous": null,
+  "total": 18
+}
