@@ -58,7 +58,7 @@ export const SpotifyUI = () => {
 
 	useEffect(() => {
 		console.log(`Setting loading==>  userPlaylist: ${userPlaylist}  userPlaylist.playlists exist:  ${userPlaylist.playlists != null}`)
-		setLoading(userPlaylist == null || userPlaylist.playlists == null /*|| userPlaylist.playlists.length === 0*/)
+		setLoading(userPlaylist == null || userPlaylist.playlists == null)
 		console.log(userPlaylist)
 	}, [userPlaylist])
 
@@ -74,7 +74,7 @@ export const SpotifyUI = () => {
 					return sum
 			}, 0));
 		}
-	}, [filterString, userPlaylist]); // If we pass an empty array to useEffect, it’s only executed after the first render.  
+	}, [filterString, userPlaylist]);  
 
 	function spotifyAuthenticate() {
 		history.push("http://localhost:8888/login");
@@ -93,7 +93,7 @@ export const SpotifyUI = () => {
 					{<Filter onTextChange={text => {
 						setFilterString(text);
 					}} />}
-					{/*userPlaylist &&*/ userPlaylist.playlists && userPlaylist.playlists.length > 0 ? userPlaylist.playlists.filter(playlist =>
+					{userPlaylist.playlists && userPlaylist.playlists.length > 0 ? userPlaylist.playlists.filter(playlist =>
 						filterString === '' || playlist.name.toLowerCase().includes(filterString.toLowerCase()))
 						.map(playlist =>
 							<PlaylistSnapshot playlist={playlist} />
@@ -103,6 +103,7 @@ export const SpotifyUI = () => {
 				<div>
 					<h3>Loading...</h3>
 					<p>Attempting to authenticate...</p>
+					{/*Automated out need to await user action to authenticate */}
 					{/*<button onClick={() => window.location='http://localhost:8888/login'}
 						style={{ padding: '20px', 'font-size': '50px', 'marginTop': '20px' }}>Sign in to Spotify</button>*/}
 				</div>
